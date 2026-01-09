@@ -23,3 +23,8 @@ Users simply upload their body analysis data from their gym or fitness tracker i
 The solution is ideal for use anytime users have access to body composition data, such as after a gym session, a fitness assessment, or at the start of a new training cycle. It is designed for environments where users want to optimize their training and nutrition but may lack expert guidance or time for research.
 The primary users are fitness enthusiasts, gym-goers, and individuals with ambitious training goals. Key needs include personalized guidance, accurate identification of training weaknesses, safe and effective supplementation advice, and an easy-to-use, time-efficient interface.# TrainByData
 This AI analyzes your body composition data to identify physical weaknesses and potential. Based on your unique physiology, it creates optimized training plans, recommends targeted exercises, and suggests personalized supplementation for protein, creatine, and other key nutrients — helping you build your ideal body efficiently.
+
+## What next?
+
+It would be great to get cooperations with Gyms that are doing bodychecks in their studios, so that potential users can actually work with it. 
+Maybe users could profit even more from it, if the suggested supplement purchases can be bought directly in their studio and by using this app they get a discount. 
